@@ -1,7 +1,5 @@
-title: MQTT Client – Support & Datenschutz / Privacy
+title: MQTT Sparkplug B Monitor – Support & Datenschutz / Privacy
 ---
-
-# MQTT Client
 
 ## Deutsch
 - [Datenschutzerklärung](./privacy-policy)
