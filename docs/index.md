@@ -1,4 +1,4 @@
-title: MQTT Sparkplug B Monitor – Support & Datenschutz / Privacy
+MQTT Sparkplug B Monitor – Support & Datenschutz / Privacy
 ---
 
 ## Deutsch
