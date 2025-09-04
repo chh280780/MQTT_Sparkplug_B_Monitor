@@ -90,8 +90,7 @@ Contact for privacy requests: chuben_technologies@icloud.com
 —
 
 ## Contact / Kontakt (GitHub)
-- Issues: https://github.com/<your-username>/<your-repo>/issues  
-- Discussions (optional): https://github.com/<your-username>/<your-repo>/discussions  
+- Issues: [https://github.com/chh280780/MQTT_Sparkplug_B_Monitor/issues](https://github.com/chh280780/MQTT_Sparkplug_B_Monitor/issues)  
 - Support page: see docs/support.md (URL über GitHub Pages, siehe Anleitung)
 
 
