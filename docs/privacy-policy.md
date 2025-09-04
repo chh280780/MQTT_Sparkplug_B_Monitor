@@ -91,5 +91,5 @@ Contact for privacy requests: chuben_technologies@icloud.com
 
 ## Contact / Kontakt (GitHub)
 - Issues: [https://github.com/chh280780/MQTT_Sparkplug_B_Monitor/issues](https://github.com/chh280780/MQTT_Sparkplug_B_Monitor/issues)  
-- Support page:
+- Support page: (Support-URL: https://chh280780.github.io/MQTT_Sparkplug_B_Monitor/support)
 
